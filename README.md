@@ -7,7 +7,7 @@ A JavaFX Application that simulates a Blackjack game.
 
 Dylan A Parsons – [@dylanparsons](https://github.com/dylanparsons) – Dylan.Parsons@smsu.edu
 
-Zachary Samuelson  – Zachary.Samuelson@smsu.edu
+Zachary Samuelson  – [@ZacharySamuelson](https://github.com/ZacharySamuelson) – Zack.Samuelson89@gmail.com
 
 Aaron Wollschlager – Aaron.Wollschlager@smsu.edu
 
