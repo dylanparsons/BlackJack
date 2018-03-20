@@ -3,7 +3,7 @@
 A JavaFX Application that simulates a Blackjack game.
 
 
-## Contributors
+Copyright (C) 2016
 
 Dylan A Parsons – [@dylanparsons](https://github.com/dylanparsons) – parsons.d@icloud.com
 
