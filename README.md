@@ -16,3 +16,7 @@ Daryn Thompson – Daryn.Thompson@smsu.edu
 Distributed under the  GNU GENERAL PUBLIC LICENSE, version 3. See ``LICENSE`` for more information.
 
 [https://github.com/dylanparsons/BlackJack](https://github.com/dylanparsons/BlackJack)
+
+
+# Demo
+https://recordit.co/nzXdTU026O
